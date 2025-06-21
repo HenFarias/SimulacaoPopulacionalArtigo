@@ -1,4 +1,4 @@
-Repositório dedicado aos códigos referentes à implementação computacional do conteúdo apresentado no artigo "Onde Estaremos em 2100" 
+Repositório dedicado aos códigos referentes à implementação computacional do conteúdo apresentado no artigo "Colapso Demográfico em 2100: Modelagem Matemática da Crise Demográfica de Gerações Futuras" 
 
 Para usar o programa coloque no mesmo diretório do programa um arquivo de texto contendo a seguinte formatação populacional:
 
